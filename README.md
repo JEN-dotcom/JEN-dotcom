@@ -4,9 +4,9 @@
 { Web Developer, Frontend Engineer, Over 3 Years Experience }
 
 <ul>
-    <li>✨ Currently working with <strong>Typescript</strong> 🤩🤩</li>
-    <li>✨ Learning <strong>Next.js, NodeJs, ExpressJs and Java</strong> 🤩🤩</li>
-    <li>👯 I’m open to working on any CSS and TypeScript projects</li>
+    <li>✨ Currently working with <strong>React</strong> 🤩🤩</li>
+    <li>✨ Learning <strong>Java</strong> 🤩🤩</li>
+    <li>👯 I’m open to working on any React and TypeScript projects</li>
 </ul>
 
 📚 I am also an avid reader. I love **philosophy**, and books on **personal development** & **financial literacy**.
@@ -18,7 +18,6 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node js"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3"/> 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap"/>
