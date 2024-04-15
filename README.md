@@ -1,13 +1,11 @@
 <h1 align="center">Hello... <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm John Enyinwa 🧑‍💻</h1> 
 
 ## 🚀 About Me
-{ Web Developer, Frontend Engineer, Over 3 Years Experience }
+{ Software Engineer, 2 Years Java Experience; 4 Years React Experience  }
 
-<ul>
-    <li>✨ Currently working with <strong>React</strong> 🤩🤩</li>
-    <li>✨ Learning <strong>Java</strong> 🤩🤩</li>
-    <li>👯 I’m open to working on any React and TypeScript projects</li>
-</ul>
+- 🔥 Currently working with **Spring Boot** and **React**
+- 🔥 Experienced in **Linux, SQL, Jenkins, AWS, Azure**
+- 👥 I’m open to working on projects involving **Spring Boot**, **React**, and full-stack development
 
 📚 I am also an avid reader. I love **philosophy**, and books on **personal development** & **financial literacy**.
 
