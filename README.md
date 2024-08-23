@@ -1,7 +1,7 @@
 <h1 align="center">Hello... <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm John Enyinwa 🧑‍💻</h1> 
 
 ## 🚀 About Me
-{ Software Engineer, 2 Years Java Experience; 4 Years React Experience  }
+{ Software Engineer, 4 Years Experience  }
 
 - 🔥 Currently working with **Spring Boot** and **React**
 - 🔥 Experienced in **Linux, SQL, Jenkins, AWS, Azure**
